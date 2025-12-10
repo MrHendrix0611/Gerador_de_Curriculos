@@ -22,8 +22,10 @@ Este projeto é um gerador de curriculo feito em JS que funciona totalmente onli
 
 ## 🚀 Tecnologias
 
-- Python
-- Tkinter
+- HTML
+- CSS
+- JS
+- Biblioteca jsPDF para gerar arquivos em PDF
 
 ## 📬 Contato
 
